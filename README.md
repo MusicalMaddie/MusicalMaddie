@@ -59,7 +59,7 @@ Here are some ideas to get you started:
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/344/my-sql.png"/> </a>    
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/php"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluency/48/0000000/arduino.png"/> </a>
-    <a href="https://www.raspberrypi.org/" target="_blank"> <img height="100px" width="100px" src="https://img.icons8.com/color/344/raspberry-pi.png"/> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank"> <img height="70px" width="70px" src="https://img.icons8.com/color/344/raspberry-pi.png"/> </a>
     <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/java-coffee-cup-logo.png"/> </a>
 </p>
 
