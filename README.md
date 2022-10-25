@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+<!--### Hi there 👋
 **MusicalMaddie/MusicalMaddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm MusicalMaddie</h1>
-<h3 align="center">I'm a test Software Development Engineer</h3>
+<h3 align="center">I'm a test Software Development Engineer for the SAS Institute</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available within **[My Repositories](https://github.com/MusicalMaddie?tab=repositories)**
+
+- ⚡ Fun fact: I play the accordion and have a degree in Piano Performance!
 
 - 📫 How to reach me **maddiemeyers@outlook.com**
 
@@ -62,24 +64,24 @@ Here are some ideas to get you started:
 <br/>
 
 <p align="center">
-    <a href="https://github.com/machine1337/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Machine404 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=machine1337&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/musicalmaddie/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MusicalMaddie streak" src="https://github-readme-streak-stats.herokuapp.com/?user=musicalmaddie&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine 404 Github Stats" src="https://github-readme-stats.vercel.app/api?username=machine1337&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/machine1337/github-readme-stats"><img alt="Machine404 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machine1337&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/musicalmaddie/github-readme-stats"><img alt="MusicalMaddie Github Stats" src="https://github-readme-stats.vercel.app/api?username=musicalmaddie&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/musicalmaddie/github-readme-stats"><img alt="MusicalMaddie's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musicalmaddie&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Top languages is only a metric of the languages my public code currently consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
 
-<a href="https://github.com/machine1337/github-readme-activity-graph"><img alt="Machine404 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=machine1337&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/musicalmaddie/github-readme-activity-graph"><img alt="MusicalMaddie Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=musicalmaddie&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
