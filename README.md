@@ -37,13 +37,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m a graduate of Tech Elevator's Java coding bootcamp
 
-- 🌱 I’m currently learning **API Testing & Malware Analysis**
+- 🌱 I’m currently learning **API Testing & QA**
 
 - 👯 I’m looking to collaborate on **OpenSource** or **LGBTQ-focused projects**
 
 - 👨‍💻 All of my public projects are available within **[My Repositories](https://github.com/MusicalMaddie?tab=repositories)**
 
 - ⚡ Fun fact: I play the accordion and have a degree in Piano Performance!
+
+- 📡 My website is at **[madelinemeyers.com](https://www.madelinemeyers.com)**
 
 - 📫 How to reach me **maddiemeyers@outlook.com**
 
