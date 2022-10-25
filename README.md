@@ -33,17 +33,17 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About Me
 
+- 😄 Pronouns: she/her/hers
+
 - 🔭 I’m a graduate of Tech Elevator's Java coding bootcamp
 
 - 🌱 I’m currently learning **API Testing & Malware Analysis**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/machine1337)**
+- 👨‍💻 All of my projects are available within **[My Repositories](https://github.com/MusicalMaddie?tab=repositories)**
 
-- 📫 How to reach me **machine1337@protonmail.com**
-
-- ⚡ Bug Bounty Hunter **I'm currently hunting on Hackerone & Bugcrowd.**
+- 📫 How to reach me **maddiemeyers@outlook.com**
 
 ## 🚀 Languages and Tools:
 
@@ -87,17 +87,15 @@ Here are some ideas to get you started:
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sikander-rasheed/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/whoami4041"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/invisibleclay100/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCC_aPnmV_zGfdwktCFE9cPQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/maddiemeyers/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.youtube.com/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
 ## <h3> Visitor Count: </h3>
-![Visitor Count](https://profile-counter.glitch.me/machine1337/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/musicalmaddie/count.svg)
 
 ## ❤  Followers: 
 
 </a>
-<a href="https://github.com/machine1337?tab=followers"><img src="https://img.shields.io/github/followers/machine1337?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/musicalmaddie?tab=followers"><img src="https://img.shields.io/github/followers/musicalmaddie?label=Followers&style=social" alt="GitHub Badge"></a>
