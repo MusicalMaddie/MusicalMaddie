@@ -56,11 +56,11 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>  
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a style="padding-right:8px;" href="https://devhints.io/bash" target="_blank"> <img src="https://img.icons8.com/color/linux"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/344/my-sql.png"/> </a>    
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img height="50px" width="50px" src="https://img.icons8.com/color/344/my-sql.png"/> </a>    
     <a href="https://www.php.net/" target="_blank"> <img src="https://img.icons8.com/color/php"/> </a>
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/fluency/48/0000000/arduino.png"/> </a>
     <a href="https://www.raspberrypi.org/" target="_blank"> <img height="50px" width="50px" src="https://img.icons8.com/color/344/raspberry-pi.png"/> </a>
-    <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://img.icons8.com/fluency/2x/java-coffee-cup-logo.png"/> </a>
+    <a href="https://www.raspberrypi.org/" target="_blank"> <img height="50px" width="50px" src="https://img.icons8.com/fluency/2x/java-coffee-cup-logo.png"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
